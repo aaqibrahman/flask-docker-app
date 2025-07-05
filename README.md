@@ -22,9 +22,9 @@ A simple Flask application containerized with Docker and pushed to Docker Hub.
 ---
 
 ## 📁 Project Structure
-flask-docker-app/
-├── app.py # Main Flask app\
-├── requirements.txt # Python dependencies\
+flask-docker-app/  
+├── app.py # Main Flask app\  
+├── requirements.txt # Python dependencies\  
 └── Dockerfile # Docker image configuration\
 
 ### 1. Clone the Repository\
