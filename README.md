@@ -27,7 +27,7 @@ flask-docker-app/
 ├── requirements.txt # Python dependencies\  
 └── Dockerfile # Docker image configuration\
 
-### 1. Clone the Repository\
+### Clone the Repository
 git clone https://github.com/yourusername/flask-docker-app.git<br>
 cd flask-docker-app<br>
 
